@@ -25,7 +25,7 @@ let zeous = 93
 var times = 0
 
 var left = 0
-var right = arr.count
+var right = god.count
 var middle = 0
 while right >= left {
     middle = (left+right)/2
@@ -40,7 +40,7 @@ while right >= left {
         left = middle+1
     }
 }
-
+middle
 times
 
 
